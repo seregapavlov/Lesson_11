@@ -47,7 +47,7 @@
     display: inline-block;
     width: 42px;
     height: 42px;
-    background: url("/progect/img/header_icons/Vector.svg") 0 0 / cover no-repeat;
+    background: url("../img/header_icons/Vector.svg") 0 0 / cover no-repeat;
     margin-left: 8px;
     position: absolute;
     top: 0;
@@ -66,7 +66,7 @@
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: url('/progect/img/header_icons/clock.svg') center /cover no-repeat;
+    background: url('../img/header_icons/clock.svg') center /cover no-repeat;
     position: absolute;
     top: 3px;
     left: -20px;
@@ -83,7 +83,7 @@
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: url('/progect/img/header_icons/phone.svg') center /cover no-repeat;
+    background: url('../img/header_icons/phone.svg') center /cover no-repeat;
     position: absolute;
     top: 3px;
     left: -20px;
@@ -136,7 +136,7 @@
 
 .title {
     max-height: 800px;
-    background:url("/progect/img/header_icons/BG\ Image.png") 0 0 / cover no-repeat  ;
+    background:url("../img/header_icons/BG\ Image.png") 0 0 / cover no-repeat  ;
     
 
 }
@@ -205,7 +205,7 @@
     display: block;
     width:553px ;
     height: 371px;
-    background: url("/progect/img/klayksa.svg") 0 0 / cover no-repeat;
+    background: url("../img/klayksa.svg") 0 0 / cover no-repeat;
     position: absolute;
     z-index: 2;
     top: 325px;
